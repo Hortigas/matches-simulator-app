@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399467663401",
+    "project_id": "simulator-hortigas-sportheca",
+    "storage_bucket": "simulator-hortigas-sportheca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399467663401:android:b9f5585f45058f71a00c38",
+        "android_client_info": {
+          "package_name": "me.dio.simulation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399467663401-vr7156aofmumbtg8udm5g42g69ld0srv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDkpLJntNj_8vFpCp8lTZ_LlxAb_hDtiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399467663401-vr7156aofmumbtg8udm5g42g69ld0srv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
